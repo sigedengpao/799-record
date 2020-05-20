@@ -1,1 +1,5 @@
-啊啊啊
+public class Main{
+  void public static main(String[]args){
+    System.out.print("hello world");
+   }
+ }
